@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+    background: url(../images/desktop/image-header.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+footer {
+    background-color: hsl(168, 34%, 41%);
+}
+
+.attribution {
+    text-align: center;
+}
